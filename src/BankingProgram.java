@@ -1,12 +1,11 @@
 import java.util.Scanner;
 
-public class LibraryApp {
+public class BankingProgram {
     static Scanner sc = new Scanner(System.in);
 
     public static void main(String[] args) {
 
         double balance = 1254.8937;
-        double withDraw = 0;
         int choice;
         boolean isRunning = true;
 
